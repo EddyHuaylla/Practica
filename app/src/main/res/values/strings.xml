@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="strSexoMain">
+        <item>Todos</item>
+        <item>Varon</item>
+        <item>Mujer</item>
+    </string-array>
+    <string-array name="strSexoSecond">
+        <item>Varon</item>
+        <item>Mujer</item>
+    </string-array>
+</resources>
